@@ -1,5 +1,5 @@
-[02.06.25, 14:13:50] INF Esports: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
-[02.06.25, 14:13:50] INF Esports: ‎You created the group "Evening Planning Deluxe".
+[02.06.25, 14:13:50] JSE Esports: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[02.06.25, 14:13:50] JSE Esports: ‎You created the group "Evening Planning Deluxe".
 [02.06.25, 14:13:54] Markus: Morning everyone
 [02.06.25, 14:14:17] Markus: Today it would be important to me that we keep the communication deliberately clean.
 [02.06.25, 14:14:29] Angela: hii
@@ -420,7 +420,7 @@ If someone is coming later, please write beforehand.
 [09.07.25, 20:56:37] Julian: ok
 [09.07.25, 20:59:40] Markus: I'd schedule Tuesday at 19:30. First a quick check-in, then do a quick warmup.
 [11.07.25, 12:56:50] Tjark: ‎You added Tjark.
-[11.07.25, 12:57:05] INF Esports: ‎You changed the group description.
+[11.07.25, 12:57:05] JSE Esports: ‎You changed the group description.
 [11.07.25, 12:58:20] Markus: I bundled the most important info here:
 https://example.com/demo-review
 
@@ -2518,7 +2518,7 @@ but I'll still join later.
 [01.12.25, 23:22:49] Julian: I'm keeping it low-key today
 [01.12.25, 23:23:10] ‎Du: I'm checking something quickly.
 [01.12.25, 23:49:27] Max: I'll check in again later.
-[01.12.25, 23:49:35] Felix "easy44win": ‎You added Felix "easy44win".
+[01.12.25, 23:49:35] Felix: ‎You added Felix.
 [01.12.25, 23:54:32] Max: for sure
 ‎[01.12.25, 23:54:38] Max: ‎Sticker omitted
 ‎[01.12.25, 23:55:21] Markus: ‎Sticker omitted
@@ -2558,10 +2558,10 @@ https://example.com/server-info
 [02.12.25, 21:49:31] Max: I'll check in again later.
 [02.12.25, 21:49:37] Max: I'll still join later. :D
 [02.12.25, 21:49:48] Max: I'm checking something quickly.
-[02.12.25, 21:50:10] Felix "easy44win": I'm getting ready right now.
-[02.12.25, 21:50:20] Felix "easy44win": I'm checking something quickly.
-[02.12.25, 21:50:26] Felix "easy44win": I'll check in again later.
-‎[02.12.25, 21:50:29] Felix "easy44win": ‎Sticker omitted
+[02.12.25, 21:50:10] Felix: I'm getting ready right now.
+[02.12.25, 21:50:20] Felix: I'm checking something quickly.
+[02.12.25, 21:50:26] Felix: I'll check in again later.
+‎[02.12.25, 21:50:29] Felix: ‎Sticker omitted
 [02.12.25, 21:51:45] Max: I'm getting ready right now.
 [02.12.25, 21:55:05] Markus: I'm a bit later, but I'll definitely be online from 17:00. ‎<This message was edited.>
 [02.12.25, 21:55:20] Markus: I'm just sorting out a few things and then I'm fully there.
@@ -2569,7 +2569,7 @@ https://example.com/server-info
 [02.12.25, 21:58:42] Max: I'll still join later.
 [02.12.25, 21:59:01] Markus: I'll be there from 20:00 and can do Deathmatch before that.
 [02.12.25, 21:59:04] Markus: all good
-[02.12.25, 21:59:27] Felix "easy44win": very good
+[02.12.25, 21:59:27] Felix: very good
 [02.12.25, 21:59:27] Markus: Can you do from 19:00 today? Then we can practice right away.
 [02.12.25, 22:01:34] Max: I'm joining later.
 [02.12.25, 22:01:37] Max: morning
@@ -2584,7 +2584,7 @@ https://example.com/server-info
 [03.12.25, 10:42:00] Max: adjusted the crosshair a bit, we'll see. :D
 [03.12.25, 10:42:05] Max: I'm in voice in a second.
 [03.12.25, 10:42:14] Max: jo haha
-‎[03.12.25, 11:09:47] Felix "easy44win": ‎Sticker omitted
+‎[03.12.25, 11:09:47] Felix: ‎Sticker omitted
 ‎[03.12.25, 11:30:58] Markus: ‎Sticker omitted
 ‎[03.12.25, 11:31:35] Max: ‎Sticker omitted
 [03.12.25, 14:08:52] Max: I'm joining later. 👍
@@ -2622,8 +2622,8 @@ https://example.com/calendar
 [07.12.25, 14:26:23] Max: very good
 [07.12.25, 14:26:27] Max: I'd be there by 18:00.
 [07.12.25, 14:26:28] Max: for sure :D
-[07.12.25, 14:26:28] Felix "easy44win": Today should go quite well.
-[07.12.25, 14:27:08] Felix "easy44win": I'll be right back.
+[07.12.25, 14:26:28] Felix: Today should go quite well.
+[07.12.25, 14:27:08] Felix: I'll be right back.
 [07.12.25, 14:28:00] Markus: I'd lock in 18:00 for tonight.
 ‎[07.12.25, 14:28:19] Max: ‎Sticker omitted
 [07.12.25, 14:28:29] Markus: I'm going to grab something to eat quickly and then I'll be right at the PC.
@@ -2631,7 +2631,7 @@ https://example.com/calendar
 ‎[09.12.25, 11:12:36] Max: ‎Sticker omitted
 ‎[09.12.25, 11:12:45] Max: ‎Sticker omitted
 [09.12.25, 11:19:48] Markus: Meet at 22:00, then go in right away without much waiting.
-[09.12.25, 11:20:55] Felix "easy44win": morning
+[09.12.25, 11:20:55] Felix: morning
 [09.12.25, 11:21:52] Max: works
 ‎[09.12.25, 11:21:55] Max: ‎Sticker omitted
 ‎[09.12.25, 11:49:17] Markus: ‎Sticker omitted
@@ -2639,36 +2639,36 @@ https://example.com/calendar
 [09.12.25, 20:30:53] Markus: Clean work. That's exactly how I want the communication to be.
 ‎[09.12.25, 21:14:30] Max: ‎Sticker omitted
 ‎[09.12.25, 21:14:31] Max: ‎Sticker omitted
-[11.12.25, 11:23:54] Kevin "rawkii": ‎You added Kevin "rawkii".
+[11.12.25, 11:23:54] Kevin: ‎You added Kevin.
 [11.12.25, 11:24:21] Markus: good morning
 [11.12.25, 11:24:33] Markus: I'd lock in 20:00 for tonight.
 [11.12.25, 11:50:05] Max: Quick update:
 I'm there later,
 but I'll still join later.
 [11.12.25, 11:50:08] Max: solid
-[11.12.25, 15:56:42] Kevin "rawkii": That was strong.
-[11.12.25, 15:57:11] Felix "easy44win": Sounds good, I'll go with that.
-[11.12.25, 22:27:25] Kevin "rawkii": yeah
-[11.12.25, 22:27:27] Kevin "rawkii": More on the later side today, but I'll still make it.
+[11.12.25, 15:56:42] Kevin: That was strong.
+[11.12.25, 15:57:11] Felix: Sounds good, I'll go with that.
+[11.12.25, 22:27:25] Kevin: yeah
+[11.12.25, 22:27:27] Kevin: More on the later side today, but I'll still make it.
 [11.12.25, 22:28:09] Max: I'll let you know as soon as I'm there.
 ‎[11.12.25, 22:28:32] Max: ‎Sticker omitted
-[11.12.25, 22:28:57] Kevin "rawkii": Today should go quite well.
-[11.12.25, 22:29:17] Kevin "rawkii": I'm in
+[11.12.25, 22:28:57] Kevin: Today should go quite well.
+[11.12.25, 22:29:17] Kevin: I'm in
 [11.12.25, 22:29:19] Max: I'll be there from 18:00.
-[11.12.25, 22:30:00] Kevin "rawkii": I'm checking something quickly.
+[11.12.25, 22:30:00] Kevin: I'm checking something quickly.
 [11.12.25, 22:30:24] Max: Who's there later?
-[11.12.25, 23:19:48] Kevin "rawkii": for sure
-[11.12.25, 23:20:00] Kevin "rawkii": Who's in today?
+[11.12.25, 23:19:48] Kevin: for sure
+[11.12.25, 23:20:00] Kevin: Who's in today?
 [11.12.25, 23:26:22] Max: yeah
 [11.12.25, 23:26:27] Max: I'm joining later.
 [12.12.25, 03:12:05] Casper: ‎You added Casper.
 [12.12.25, 03:12:12] Markus: very good
 [12.12.25, 03:12:53] Markus: Meet at 18:00, then go in right away without much waiting.
 [12.12.25, 07:17:45] Max: I'll check in again later.
-[12.12.25, 14:06:29] Kevin "rawkii": I'm joining later.
+[12.12.25, 14:06:29] Kevin: I'm joining later.
 [12.12.25, 14:20:47] Casper: I'm in
 [12.12.25, 14:21:04] Markus: You have a very special way of creatively interpreting my planning.
-[12.12.25, 14:21:18] Felix "easy44win": I'll check in again later.
+[12.12.25, 14:21:18] Felix: I'll check in again later.
 [12.12.25, 14:21:24] Max: solid
 ‎[12.12.25, 14:21:36] Max: ‎Sticker omitted
 ‎[12.12.25, 14:21:46] Casper: ‎Sticker omitted
@@ -2691,13 +2691,13 @@ https://example.com/calendar
 
 Please take a quick look, everything important for the next few days is in there.
 [12.12.25, 16:51:19] Casper: ok
-[12.12.25, 16:58:37] Felix "easy44win": That was strong.
+[12.12.25, 16:58:37] Felix: That was strong.
 [12.12.25, 17:06:13] Markus: That is a truly remarkable level of chaos.
 [12.12.25, 17:06:28] Markus: I still have two things on my list, then I'm completely free.
 [12.12.25, 17:06:56] Markus: Today it would be important to me that we keep the communication deliberately clean.
 [12.12.25, 17:22:39] Max: I can only make it at 19:00.
 [12.12.25, 17:22:47] Max: I'm joining later.
-[12.12.25, 17:31:39] Felix "easy44win": ok
+[12.12.25, 17:31:39] Felix: ok
 [12.12.25, 17:32:00] Max: I'm getting ready right now.
 [12.12.25, 17:32:13] Markus: Before the scrim I'd like to dry-run the first exec.
 [12.12.25, 17:33:01] Max: I'll look at the demo later.
@@ -2769,15 +2769,15 @@ Please take a quick look, everything important for the next few days is in there
 [12.12.25, 22:30:22] Casper: That was good. haha
 [12.12.25, 22:39:47] Max: We'll take that.
 [12.12.25, 22:39:49] Max: very good
-‎[12.12.25, 22:49:57] Felix "easy44win": ‎Sticker omitted
+‎[12.12.25, 22:49:57] Felix: ‎Sticker omitted
 ‎[12.12.25, 22:51:30] Max: ‎Sticker omitted
 [12.12.25, 23:10:36] Markus: all good
 [12.12.25, 23:10:40] Markus: I'm a bit later, but I'll definitely be online later.
 [12.12.25, 23:26:51] Casper: Are we doing anything today?
 [12.12.25, 23:50:47] Markus: That was unnecessarily close, but we'll gladly take it.
-[12.12.25, 23:51:00] Felix "easy44win": for sure
-[12.12.25, 23:51:01] Felix "easy44win": I'm in
-[12.12.25, 23:51:11] Felix "easy44win": works
+[12.12.25, 23:51:00] Felix: for sure
+[12.12.25, 23:51:01] Felix: I'm in
+[12.12.25, 23:51:11] Felix: works
 ‎[13.12.25, 09:39:11] Max: ‎Sticker omitted
 [13.12.25, 13:39:07] Max: I'll be right back.
 [13.12.25, 13:39:10] Max: More on the later side today, but I'll still make it.
@@ -2928,18 +2928,18 @@ https://example.com/scrim-notes
 [15.12.25, 20:01:25] Markus: for sure
 ‎[16.12.25, 11:53:27] Markus: ‎Image omitted
 [16.12.25, 11:56:49] Casper: I'm getting ready right now.
-[16.12.25, 12:04:55] Felix "easy44win": let's go
-[16.12.25, 12:07:30] Felix "easy44win": I'll check in again later.
+[16.12.25, 12:04:55] Felix: let's go
+[16.12.25, 12:07:30] Felix: I'll check in again later.
 [16.12.25, 12:09:14] Casper: moin 👍
-‎[16.12.25, 12:09:50] Felix "easy44win": ‎Image omitted
+‎[16.12.25, 12:09:50] Felix: ‎Image omitted
 ‎[16.12.25, 12:14:34] Casper: ‎Image omitted
 [16.12.25, 12:14:52] Casper: GGs
 [16.12.25, 12:14:56] Casper: solid
-‎[16.12.25, 12:15:17] Felix "easy44win": ‎Sticker omitted
+‎[16.12.25, 12:15:17] Felix: ‎Sticker omitted
 ‎[16.12.25, 12:24:52] Max: ‎Image omitted
 [16.12.25, 12:24:53] Max: that is cursed
 ‎[16.12.25, 12:25:58] Max: ‎Image omitted
-‎[16.12.25, 12:36:09] Felix "easy44win": ‎Image omitted
+‎[16.12.25, 12:36:09] Felix: ‎Image omitted
 [16.12.25, 12:37:02] Max: I'll let you know as soon as I'm there.
 [16.12.25, 12:37:21] Casper: let's go
 [16.12.25, 12:45:23] Markus: Meet at 20:00, then go in right away without much waiting.
@@ -2963,12 +2963,12 @@ https://example.com/scrim-notes
 [16.12.25, 13:38:11] Max: I'm in
 [16.12.25, 13:38:16] Max: I can only make it at 19:00.
 [16.12.25, 13:38:20] Max: ok
-[16.12.25, 13:38:30] Felix "easy44win": I'll be right back.
-[16.12.25, 13:38:38] Felix "easy44win": We'll take that.
+[16.12.25, 13:38:30] Felix: I'll be right back.
+[16.12.25, 13:38:38] Felix: We'll take that.
 [16.12.25, 13:38:44] Max: let's go
 [16.12.25, 13:38:51] Max: Are we full?
-[16.12.25, 13:56:17] Felix "easy44win": I'm checking something quickly. 👍
-[16.12.25, 13:56:19] Felix "easy44win": hahaha
+[16.12.25, 13:56:17] Felix: I'm checking something quickly. 👍
+[16.12.25, 13:56:19] Felix: hahaha
 [16.12.25, 14:04:15] Markus: Today it would be important to me that we keep the communication deliberately clean.
 [16.12.25, 14:25:46] Casper: 19:30 works for me.
 [16.12.25, 14:28:13] Markus: understood
@@ -2980,30 +2980,30 @@ https://example.com/scrim-notes
 [16.12.25, 14:31:00] Markus: I still have two things on my list, then I'm completely free.
 [16.12.25, 14:31:11] Markus: I'm going to grab something to eat quickly and then I'll be right at the PC.
 ‎[16.12.25, 14:31:18] Max: ‎Sticker omitted
-[16.12.25, 14:39:27] Felix "easy44win": Today should go quite well.
-[16.12.25, 14:39:45] Felix "easy44win": I'll look at the demo later.
+[16.12.25, 14:39:27] Felix: Today should go quite well.
+[16.12.25, 14:39:45] Felix: I'll look at the demo later.
 [16.12.25, 15:08:18] Max: 19:30 works for me.
 [16.12.25, 15:11:00] Max: I'll let you know as soon as I'm there.
 [16.12.25, 15:11:05] Max: I'll be right back.
 ‎[16.12.25, 15:11:08] Max: ‎Sticker omitted
-[16.12.25, 15:12:06] Felix "easy44win": Clean round.
+[16.12.25, 15:12:06] Felix: Clean round.
 [16.12.25, 15:26:05] Max: very good
 [16.12.25, 15:35:08] Casper: I'm good for 21:00.
 [16.12.25, 15:35:13] Casper: Today should go quite well. :D
 [16.12.25, 15:35:17] Casper: I'm getting ready right now.
-[16.12.25, 15:35:36] Felix "easy44win": I'm in voice in a second.
+[16.12.25, 15:35:36] Felix: I'm in voice in a second.
 [16.12.25, 15:36:07] Casper: very good
 [16.12.25, 15:36:13] Casper: I'm joining later.
-[16.12.25, 15:36:51] Felix "easy44win": for sure
-[16.12.25, 15:37:34] Felix "easy44win": I'd be there by 20:30.
-[16.12.25, 15:38:11] Felix "easy44win": I'll let you know as soon as I'm there.
+[16.12.25, 15:36:51] Felix: for sure
+[16.12.25, 15:37:34] Felix: I'd be there by 20:30.
+[16.12.25, 15:38:11] Felix: I'll let you know as soon as I'm there.
 [16.12.25, 15:38:16] Casper: let's go
 [16.12.25, 15:38:18] Casper: I'm in
 [16.12.25, 15:38:23] Casper: 19:30 should be free for me.
 [16.12.25, 15:38:28] Casper: I'm getting ready right now.
 [16.12.25, 15:38:32] Casper: I'll be right back. haha
-[16.12.25, 15:38:43] Felix "easy44win": Today should go quite well.
-[16.12.25, 15:38:55] Felix "easy44win": I'm getting ready right now.
+[16.12.25, 15:38:43] Felix: Today should go quite well.
+[16.12.25, 15:38:55] Felix: I'm getting ready right now.
 [16.12.25, 15:39:39] Casper: Today should go quite well.
 [16.12.25, 16:27:00] Max: I'll still join later.
 [16.12.25, 16:27:42] Max: I'm in voice in a second.
@@ -3019,16 +3019,16 @@ https://example.com/scrim-notes
 [16.12.25, 20:02:01] Casper: moin haha
 [16.12.25, 23:52:30] Casper: I'll be right back.
 [16.12.25, 23:56:58] Max: ok
-[17.12.25, 00:09:17] Felix "easy44win": I'm checking something quickly.
-[17.12.25, 00:09:23] Felix "easy44win": I'm joining later.
+[17.12.25, 00:09:17] Felix: I'm checking something quickly.
+[17.12.25, 00:09:23] Felix: I'm joining later.
 ‎[17.12.25, 06:54:32] Max: ‎Image omitted
-‎[17.12.25, 07:12:29] Felix "easy44win": ‎Sticker omitted
+‎[17.12.25, 07:12:29] Felix: ‎Sticker omitted
 ‎[17.12.25, 07:12:40] Max: ‎Sticker omitted
 [17.12.25, 12:53:43] Markus: I'd lock in 20:00 for tonight.
 [17.12.25, 12:56:16] Markus: I'd lock in 20:00 for tonight. ‎<This message was edited.>
 [17.12.25, 12:57:56] Markus: I'll be at my PC from 17:00.
-‎[17.12.25, 14:20:39] Felix "easy44win": ‎Sticker omitted
-[17.12.25, 14:21:06] Felix "easy44win": I'll be right back.
+‎[17.12.25, 14:20:39] Felix: ‎Sticker omitted
+[17.12.25, 14:21:06] Felix: I'll be right back.
 ‎[17.12.25, 14:21:58] Max: ‎Sticker omitted
 ‎[17.12.25, 14:22:00] Max: ‎Sticker omitted
 [17.12.25, 16:12:21] Casper: I'll check in again later.
@@ -3075,7 +3075,7 @@ https://example.com/scrim-notes
 [18.12.25, 13:12:13] Markus: yeah
 [18.12.25, 13:12:25] Max: very good
 [18.12.25, 13:12:33] Max: I'm joining later.
-[18.12.25, 13:13:13] Felix "easy44win": works
+[18.12.25, 13:13:13] Felix: works
 [18.12.25, 13:13:46] Markus: Clean work. That's exactly how I want the communication to be.
 [18.12.25, 13:22:07] Casper: very good
 [18.12.25, 13:28:09] Max: for sure
@@ -3090,7 +3090,7 @@ https://example.com/calendar
 [18.12.25, 18:02:36] Max: I'll still join later.
 [18.12.25, 18:02:43] Max: I can only make it at 17:00.
 [19.12.25, 10:51:40] Markus: Quick plan: Discord at 18:30, then do a prac block.
-[19.12.25, 11:12:35] Felix "easy44win": let's go
+[19.12.25, 11:12:35] Felix: let's go
 [19.12.25, 14:06:59] Max: I'm good for 18:00.
 [19.12.25, 14:07:08] Markus: solid
 [19.12.25, 14:07:10] Markus: understood
@@ -3123,7 +3123,7 @@ Thanks, everyone.
 [20.12.25, 12:04:52] Max: 18:30 should be free for me.
 [20.12.25, 18:42:54] Markus: Quick plan: Discord at 20:00, then do a prac block.
 [21.12.25, 17:27:41] Markus: Please keep 19:00 free. I'm planning to practice then.
-[21.12.25, 17:28:16] Felix "easy44win": Saturday could work for me.
+[21.12.25, 17:28:16] Felix: Saturday could work for me.
 [21.12.25, 17:44:26] Markus: I'm still looking at the latest demos and writing a few notes.
 [21.12.25, 17:44:35] Markus: I'd lock in 20:00 for tonight. ‎<This message was edited.>
 [21.12.25, 17:44:50] Markus: Can you do from 20:00 today? Then we can practice right away.
@@ -3178,7 +3178,7 @@ Thanks, everyone.
 [21.12.25, 18:55:24] Markus: Today it would be important to me that we keep the communication deliberately clean.
 [21.12.25, 18:55:32] Markus: perfect
 ‎[21.12.25, 18:56:00] Max: ‎Sticker omitted
-[21.12.25, 19:01:06] Felix "easy44win": I'm getting ready right now.
+[21.12.25, 19:01:06] Felix: I'm getting ready right now.
 [21.12.25, 19:01:21] Casper: works
 [21.12.25, 19:35:53] Casper: I'm online later.
 [21.12.25, 19:53:56] Markus: solid
@@ -3214,10 +3214,10 @@ Thanks, everyone.
 [22.12.25, 20:00:10] Markus: I think we're on a good path if we just stay consistent now.
 [22.12.25, 23:53:18] Max: I'm in voice in a second.
 [23.12.25, 11:05:05] Markus: Let's aim for 23:00. I'd like to use the time well.
-[23.12.25, 11:42:44] Felix "easy44win": I'll check in again later.
+[23.12.25, 11:42:44] Felix: I'll check in again later.
 [23.12.25, 11:43:03] Markus: I'm going to grab something to eat quickly and then I'll be right at the PC.
-[23.12.25, 11:44:26] Felix "easy44win": solid
-[24.12.25, 15:22:07] Felix "easy44win": I'm joining later.
+[23.12.25, 11:44:26] Felix: solid
+[24.12.25, 15:22:07] Felix: I'm joining later.
 [24.12.25, 15:32:28] Markus: I'm still looking at the latest demos and writing a few notes.
 [24.12.25, 15:53:09] Casper: moin :D
 [25.12.25, 03:17:18] Max: yeah
@@ -3234,8 +3234,8 @@ Thanks, everyone.
 [25.12.25, 19:46:54] Markus: Let's be a bit more disciplined today than yesterday.
 [25.12.25, 19:47:08] Casper: I'll check in again later.
 [26.12.25, 18:19:24] Markus: I'm going to grab something to eat quickly and then I'll be right at the PC.
-[26.12.25, 18:25:25] Felix "easy44win": I'll be right back.
-[26.12.25, 18:25:29] Felix "easy44win": I'm checking something quickly.
+[26.12.25, 18:25:25] Felix: I'll be right back.
+[26.12.25, 18:25:29] Felix: I'm checking something quickly.
 ‎[26.12.25, 23:43:05] Max: ‎Sticker omitted
 [26.12.25, 23:53:42] Markus: If everyone is five minutes late again today, I'm taking minutes.
 [26.12.25, 23:54:08] Max: It would be good to dry-run once before the match.
@@ -3243,9 +3243,9 @@ Thanks, everyone.
 [26.12.25, 23:57:16] Max: I'm checking something quickly.
 [27.12.25, 02:14:53] Markus: Let's aim for 20:30. I'd like to use the time well.
 [27.12.25, 02:39:34] Max: I'd be there by 21:00.
-[27.12.25, 02:45:39] Felix "easy44win": Sounds good, I'll go with that.
-[27.12.25, 02:45:44] Felix "easy44win": 20:30 should be free for me.
-‎[27.12.25, 02:52:34] Felix "easy44win": ‎Sticker omitted
+[27.12.25, 02:45:39] Felix: Sounds good, I'll go with that.
+[27.12.25, 02:45:44] Felix: 20:30 should be free for me.
+‎[27.12.25, 02:52:34] Felix: ‎Sticker omitted
 [27.12.25, 03:30:45] Casper: solid
 [27.12.25, 04:06:40] Max: for sure
 [27.12.25, 04:06:44] Max: solid
@@ -3308,11 +3308,11 @@ Thanks, everyone.
 https://example.com/demo-review
 
 There you'll find dates, contacts, and the notes for the current week.
-[29.12.25, 18:25:44] Felix "easy44win": I'm in
-[29.12.25, 18:25:52] Felix "easy44win": I'm good for 20:30.
+[29.12.25, 18:25:44] Felix: I'm in
+[29.12.25, 18:25:52] Felix: I'm good for 20:30.
 [29.12.25, 18:26:04] Markus: Let's aim for 22:00. I'd like to use the time well.
 [29.12.25, 18:26:15] Markus: Please keep 24:00 free. I'm planning to do a quick warmup then.
-[29.12.25, 18:26:20] Felix "easy44win": yeah
+[29.12.25, 18:26:20] Felix: yeah
 [30.12.25, 10:07:33] Markus: Meet at 24:00, then go in right away without much waiting.
 [31.12.25, 15:56:55] Markus: Can you do from 18:00 today? Then we can review together right away.
 [31.12.25, 16:27:23] Max: works
@@ -3329,12 +3329,12 @@ There you'll find dates, contacts, and the notes for the current week.
 [31.12.25, 16:34:55] Max: Thursday could work for me.
 [31.12.25, 16:35:06] Max: works
 [31.12.25, 16:35:09] Max: I'll be right back.
-[31.12.25, 17:21:51] Felix "easy44win": 18:30 should be free for me.
+[31.12.25, 17:21:51] Felix: 18:30 should be free for me.
 [31.12.25, 18:32:12] Markus: I'm just sorting out a few things and then I'm fully there.
 [31.12.25, 18:32:29] Max: for sure
 [31.12.25, 18:32:32] Max: I'm joining later.
-‎[31.12.25, 18:34:26] Felix "easy44win": ‎Sticker omitted
-[31.12.25, 18:34:32] Felix "easy44win": very good
+‎[31.12.25, 18:34:26] Felix: ‎Sticker omitted
+[31.12.25, 18:34:32] Felix: very good
 ‎[31.12.25, 18:34:48] Max: ‎Sticker omitted
 [01.01.26, 00:01:06] Max: works haha
 [01.01.26, 00:03:54] Markus: I still have two things on my list, then I'm completely free.
@@ -3344,15 +3344,15 @@ There you'll find dates, contacts, and the notes for the current week.
 ‎[01.01.26, 00:10:08] Max: ‎Sticker omitted
 ‎[01.01.26, 00:10:20] Max: ‎Sticker omitted
 ‎[01.01.26, 00:23:24] Markus: ‎Sticker omitted
-[01.01.26, 00:38:12] Felix "easy44win": morning
+[01.01.26, 00:38:12] Felix: morning
 ‎[01.01.26, 00:40:24] Max: ‎Sticker omitted
 ‎[01.01.26, 00:40:24] Max: ‎Sticker omitted
 [01.01.26, 13:09:15] Markus: Can you do from 22:00 today? Then we can do a quick warmup right away.
 [01.01.26, 13:09:25] Markus: Today it would be important to me that we keep the communication deliberately clean.
 [02.01.26, 15:36:42] Markus: Please keep 19:30 free. I'm planning to do a quick warmup then.
-[02.01.26, 15:40:41] Felix "easy44win": solid
-[02.01.26, 15:40:54] Felix "easy44win": I'll check in again later. :D
-[02.01.26, 15:41:03] Felix "easy44win": I'll check in again later.
+[02.01.26, 15:40:41] Felix: solid
+[02.01.26, 15:40:54] Felix: I'll check in again later. :D
+[02.01.26, 15:41:03] Felix: I'll check in again later.
 [02.01.26, 15:41:18] Max: works
 [02.01.26, 15:41:39] Max: Today should go quite well.
 ‎[02.01.26, 15:41:42] Max: ‎Sticker omitted
@@ -3360,7 +3360,7 @@ There you'll find dates, contacts, and the notes for the current week.
 [03.01.26, 00:27:47] ~ Mirco: ‎You added ~ Mirco.
 [03.01.26, 00:28:22] ~ Mirco: Today should go quite well.
 [03.01.26, 22:04:14] ~ Mirco: I'm checking something quickly.
-[05.01.26, 16:44:43] Felix "easy44win": GGs
+[05.01.26, 16:44:43] Felix: GGs
 [07.01.26, 11:25:09] DanG: ‎You added DanG.
 [08.01.26, 11:37:48] Richard: ‎You added Richard.
 ‎[08.01.26, 12:01:39] Richard: ‎Sticker omitted
