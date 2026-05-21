@@ -66,6 +66,7 @@ library("lubridate")
 library("tidyr")
 library("tidytext")
 library("stopwords")
+library("magick")
 library("ggimage")
 ```
 
