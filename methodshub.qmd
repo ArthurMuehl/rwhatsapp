@@ -28,13 +28,12 @@ format:
 Lines with timestamps, author handles, message text; media as placeholders. If you extract it and open the .txt file it should look like this:
 
 [06/03/25, 2:27:42] Markus: I just need a quick coffee, and then I'll be back to normal. Hahaha
-
 [06/03/25, 2:27:47] Angela: My day has been totally random, but I'll be right back as well!
 
 ## Output Data
 `rwa_read()` returns a tibble:
 - `time`, `author`, `text`, `source`, `emoji`, `emoji_name`
-```{r}
+```{r, warning=FALSE}
 library("rwhatsapp")
 history <- system.file("extdata", "sample.txt", package = "rwhatsapp")
 chat <- rwa_read(history)
@@ -46,34 +45,38 @@ head(chat)
 - **Resources:** Small-to-moderate for typical chats.
 
 ## Environment Setup
+
+With R installed run:
 ```{r, eval=FALSE}
 install.packages("rwhatsapp")
+library("rwhatsapp")
 ```
 OR
 ```{r, eval=FALSE}
 remotes::install_github("JBGruber/rwhatsapp")
+library("rwhatsapp")
 ```
 
 ### Loading Dependencies:
 RWhatsApp needs a number of other packages to be installed to ensure functionality. Always make sure to load these common packages into your environment when using RWhatsapp:
-```{r}
-library("rwhatsapp")
+```{r, warning=FALSE, message=FALSE}
 library("dplyr")
 library("ggplot2")
 library("lubridate")
 library("tidyr")
 library("tidytext")
 library("stopwords")
+library("magick")
+library("ggimage")
 ```
 
 ## How to Use
 
-In the following example we will show you how to use the main features of the package. You may use the example data or are welcome to load your own chatlogs into the environment.
+In the following example we will show you how to use the main features of the package. You may use the example data or are welcome to load your own chatlogs into the environment. In order to upload your chatlogs, you can use the "Upload File"-Function of R-Studio in this environment.
 
 ### Load sample data and read into R
 ```{r}
-history <- system.file("extdata", "sample.txt", package = "rwhatsapp")
-chat <- rwa_read(history)
+chat <- rwa_read("Examplechat.txt")
 chat
 ```
 
@@ -83,7 +86,7 @@ chat <- rwa_read("/path/to/your/WhatsAppChat.txt")
 ```
 
 ### Remove system messages
-In this step we are removing any messages, that are not sent from one of the two human authors in the chat:
+In this step we are removing any messages, that are not sent from one of the two human authors in the chat. You may have seen an example of this in the Output-Data-Chapter earlier.
 ```{r}
 chat <- subset(chat, !is.na(author))
 ```
@@ -132,7 +135,8 @@ chat |>
     Author = author,
     Emoji = emoji,
     Frequency = n
-  )
+  ) |>
+  knitr::kable()
 ```
 
 ### Token-based exploration
@@ -148,24 +152,27 @@ chat |>
   ) |>
   select(Author, Word, Frequency)
 ```
+This is not very useful at this point, because the analysis is "polluted" with words like "the", "a" or "omitted". How to remove those words in order to make the analysis more fruitful will be shown in the next chapter. 
 
-### Deep Dive
-After you are familiar with the package and its basic functionalities you are able to combine the diverse feature together to undergo deeper analysis. The following example will not work well with the example data, but works great if you have loaded your own WhatsApp-Data. If you are unable to do so, we have provided a larger example dataset for this task.
+## Deep Dive
+After you are familiar with the package and its basic functionalities you are able to combine the diverse feature together to undergo deeper analysis. The following example will work especially well, if you have loaded your own WhatsApp-Data:
 
 Another way to determine favourite words is to calculate the term frequency–inverse document frequency (tf–idf). Basically, what the measure does, in this case, is to find words that are common within the messages of one author but uncommon in the rest of the messages.
-```{r}
-# First we define stopwords to be removed from the analysis. You may need to add further words to this list while investigating the dataset.
+```{r, fig.width=8, fig.height=16}
+
+# First we define stopwords to be removed from the analysis. You may need to add further words to this list while investigating the dataset, such as "omitted". "Omitted" is a placeholder WhatsApp puts into the log file instead of a picture or video. Try to run the chunk and then add more words to the list to be removed, in order to make the analysis more fruitful.
 
 to_remove <- c(stopwords(language = "en"),
-               "example")
+               "addmorewordstoberemovedhere")
 
 # Then we load our own dataframe (or leave it as is to use our larger example dataset)
 chat <- rwa_read("ExampleChat.txt")
+
+#Then we remove all system messages from the dataset
 chat <- subset(chat, !is.na(author))
 
 chat %>%
-  unnest_tokens(input = text,
-                output = word) %>%
+  unnest_tokens(input = text, output = word) %>%
   select(word, author) %>%
   filter(!word %in% to_remove) %>%
   mutate(word = gsub(".com", "", word)) %>%
@@ -174,17 +181,20 @@ chat %>%
   bind_tf_idf(term = word, document = author, n = n) %>%
   filter(n > 10) %>%
   group_by(author) %>%
-  top_n(n = 6, tf_idf) %>%
-  ggplot(aes(x = reorder_within(word, n, author), y = n, fill = author)) +
+  slice_max(tf_idf, n = 6, with_ties = FALSE) %>%
+  ggplot(aes(x = reorder_within(word, tf_idf, author),
+             y = tf_idf,
+             fill = author)) +
   geom_col(show.legend = FALSE) +
+  geom_text(aes(label = n), hjust = -0.2, size = 3) +
   ylab("") +
   xlab("") +
   coord_flip() +
   facet_wrap(~author, ncol = 2, scales = "free_y") +
   scale_x_reordered() +
-  ggtitle("Important words using tf–idf by author")
-
+  ggtitle("Frequency of each author's most distinctive words (selected by tf–idf)")
 ```
+
 For further deep dives and more in depth tutorials visit [the official documentation page](https://cran.r-project.org/web/packages/rwhatsapp/vignettes/Text_Analysis_using_WhatsApp_data.html).
 
 ## Technical Details
